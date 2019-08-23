@@ -1,0 +1,15 @@
+{
+  "project": "MOBILE",
+  "summary": "",
+  "description": "",
+  "issuetype": {"name": "Story"},
+  "assignee": {"name": ""},
+  "components":[{
+    "name":""
+  }],
+  "customfield_14207":{
+     "self":"https://jira.kiwi.com/rest/api/2/customFieldOption/12217",
+     "value":"iOS",
+     "id":"12217"
+    }
+}
